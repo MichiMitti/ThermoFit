@@ -3,7 +3,7 @@
 
 #bin folder
 ThermoFit/bin/*
-!ThermoFit/bin/README.md
+!ThermoFit/bin/README_bin.md
 !ThermoFit/bin/x64/Release/src/*
 !ThermoFit/bin/x64/Release/temp/*
 
@@ -31,8 +31,7 @@ ThermoFit/lib/rl/*
 ThermoFit/src/*
 !ThermoFit/src/*.cpp
 !ThermoFit/src/*.hpp
-!ThermoFit/src/test/*.cpp
-!ThermoFit/src/test/*.hpp
+!ThermoFit/src/test/
 
 #temp folder
 ThermoFit/temp/*
