@@ -32,8 +32,8 @@ ThermoFit/src/*
 !ThermoFit/src/*.cpp
 !ThermoFit/src/*.hpp
 !ThermoFit/src/test/
+!ThermoFit/src/model/
 
 #temp folder
-ThermoFit/temp/*
-!ThermoFit/temp/0000/*
+!ThermoFit/temp/
 
